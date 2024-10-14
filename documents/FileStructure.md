@@ -1,3 +1,7 @@
+
+# Frontend Setup for QR Order System
+
+```markdown
 /qr-order-system
 ├── /public                    # Public assets accessible to the frontend
 │   ├── /css
@@ -30,3 +34,4 @@
 ├── server.js                  # Main entry point for the Node.js server
 ├── package.json               # Dependencies and scripts
 └── .env                       # Environment variables (e.g., DB_URI, API keys)
+```
